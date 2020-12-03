@@ -1,0 +1,23 @@
+[
+	{
+		"lang":"nl",
+		"contents": [
+			"Het resultaat is",
+			"Jij hebt gewonnen"
+		]
+	},
+	{
+		"lang":"en",
+		"contents": [
+			"The result is",
+			"You have won"
+		]
+	},
+	{
+		"lang":"de",
+		"contents": [
+			"Das Ergebnis ist",
+			"Du hast gewonnen"
+		]
+	}
+]
