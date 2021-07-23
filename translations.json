@@ -3,21 +3,24 @@
 		"lang":"nl",
 		"contents": [
 			"Het resultaat is",
-			"Jij hebt gewonnen"
+			"Jij hebt gewonnen",
+			"Het is bijna kerst"
 		]
 	},
 	{
 		"lang":"en",
 		"contents": [
 			"The result is",
-			"You have won"
+			"You have won",
+			"It is almost christmas"
 		]
 	},
 	{
 		"lang":"de",
 		"contents": [
 			"Das Ergebnis ist",
-			"Du hast gewonnen"
+			"Du hast gewonnen",
+			"Es ist fast Weihnachten"
 		]
 	}
 ]
